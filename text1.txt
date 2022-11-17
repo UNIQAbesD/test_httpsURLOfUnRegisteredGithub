@@ -19,3 +19,4 @@ Ccccccc
 SSHの欄でsshkeyを生成して、githubに追加してもう一度挑戦
 失敗
 UrlにSshをのリンクを設定してもう一度
+URLにsshのリンクを設定したらいけた
