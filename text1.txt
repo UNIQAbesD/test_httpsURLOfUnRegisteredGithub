@@ -20,3 +20,12 @@ SSHの欄でsshkeyを生成して、githubに追加してもう一度挑戦
 失敗
 UrlにSshをのリンクを設定してもう一度
 URLにsshのリンクを設定したらいけた
+
+これって
+
+Pushをするためには(リモートのgitの内容を変更するためには)
+・ssh接続
+・個人アクセストークンを用いてhttpsで接続
+・gitkraken sourcetreeなど特定のgitのGUIツールのintegration(コンセント見たいなマークのアレ)を使って接続
+
+の3種類があるということ?
