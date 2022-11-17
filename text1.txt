@@ -15,3 +15,5 @@ Urlでリモートリポジトリを登録して、pushなどする時はアク�
 Ccccccc
 
 やっぱり失敗
+
+SSHの欄でsshkeyを生成して、githubに追加してもう一度挑戦
